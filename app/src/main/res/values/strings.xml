@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="BotonFragmentos">Fragmentos</string>
+    <string name="BotonListViews">ListView</string>
+    <string name="ListView">Selecciona un Continente</string>
+    <string name="tv1">PrimerActivity</string>
+    <string name="BotonAnterior">Atras</string>
+    <string name="text">Por favor practique mas con nosotros, aprendi mas 2 dias en Youtube que en 4 meses en la universidad:(</string>
+
+</resources>
